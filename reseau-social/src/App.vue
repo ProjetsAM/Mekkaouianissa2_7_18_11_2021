@@ -1,10 +1,11 @@
 <template>
     <div id="app">
-      
+       
       <!-- définit la zone de la page dans laquelle apparaîtra le composant 
       que nous définissons dans chaque route -->
-      <router-view />
       
+      <router-view />
+       
     </div>
 </template>
 
